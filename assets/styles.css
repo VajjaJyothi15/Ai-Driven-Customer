@@ -1,0 +1,45 @@
+/* Main Page */
+.main-title {
+    font-size: 42px;
+    font-weight: 700;
+    color: #2563eb;
+    text-align: center;
+}
+
+.sub-title {
+    font-size: 18px;
+    color: #6b7280;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* KPI Cards */
+.metric-card {
+    background: #f8fafc;
+    border-radius: 12px;
+    padding: 20px;
+    border: 1px solid #e5e7eb;
+}
+
+/* Feature Cards */
+.feature-card {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #e5e7eb;
+    min-height: 150px;
+}
+
+/* Section Title */
+.section-title {
+    font-size: 28px;
+    font-weight: 600;
+    color: #c0a01e;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    color: gray;
+    margin-top: 40px;
+}
